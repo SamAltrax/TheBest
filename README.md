@@ -1,36 +1,57 @@
----------------------------------------------------------------Vall-Corporation-Internasional---------------------------------------------------------------
-1.Before Vall Corporation was released in this dusty place
 
-City 57 was an strict combine city looked like city 17 but its not city 17
-so in 7:00 at City 57 groups of raiders terminates all combines to rule the entire city
-and they think its cool but.
+[:] Corporation Creator
+The First leader of the corporation has access to anything in the corporation and leader of anything in the corporation the corporation creator is [CLASSIFIED NO DATA FOUND]
 
-suddenly they litterly nuked the place and they accidently nuked themself too
-so two years have past.. all citizens are starving and then Jack Sevack one of the citizens
-decided to sell guns and be a gun dealer.
+[E-2] Administrive Department
+second leader of the corporation. As Executives Administraitors.
 
-but 3 days later Vall Corporation founded the dusty place and then they tried to dig the
-cave down and make the border and thats it!
+[E-1] Corporational Internal Director
+Third leader of the corporation
 
-2.Rules for Vall Units
+[D-3] Responsible Corporation Director
+RCD is Responsible Corporation Director they are responsible to what happened to the corporation assets. And the Fourth leader of the corporation.
 
-do not disrespect higher ranks such as T-5,YX ranks,Group Administraitor,Creator!
-do not exploit/cheating in-game
-do not swear
-do not enter high rank rooms illegaly
-do not teaming with raiders or it causing an team kill
-do not team kill (tk)
-do not go outside without high rank's permission exept high ranks
-do not breaking high rank rules
-do not go to training area without training code (You will be asked by a high rank whats your training code)
+[D-2] Chairman
+[REDACTED]
 
-3.Border Rules for Vall Units
+[D-1] Board Of Chairfriends
+[NOTHING TO SEE HERE]
 
-if youre a border guard you can access the border room and then act normally and say:
--Hello (PLAYER NAME HERE) welcome to Vall Corporation Internasional border!
--Now show me your border passport [if they dont wanna show the passport then say it again if they did not do it and then terminate them] but if...[they show the passport and then say Good.]
+[C-2] Council Overseer
+[REDACTED]
 
--Carrying any weapons?  [If they get weapons or say yes terminate them its an illegal weapon] but if...[they say no and they dont have any weapons and then say Pass]
+[C-1] Intelligence Agency
+[CLASSIFIED]
 
-if they pass all of it and then say
--Pass
+[C-0] Maximum Internal Security Captain
+MISC is Maximum Internal Security Captain they are the leader of MSD, SD's and SAS they are responsible to what happened to them and handle anything dangerous and protect the corporation
+
+[B-6] Maximum Security Operative
+MSO as Maximum Security Operative is the Operatives from MSD Maximum Security Department their job is to handle kind of bad situations and protect the corporation.
+
+[B-5] Maximum Security Department
+Maximum security departments are the most intelligent Specialized armed securities that have been choosed or ranked up to MSD Maximum Security Department they are more speeder more intelligent more combative than SAS Specialized Armed Security.
+
+[B-4] Specialized Armed Security
+Specialized armed security are the most ranged specialized forces that passed "01 Security Unit B-4" and ranked up to SAS Specialized Armed Security they are lightly speed and great combative aim they can handle dangerous class entity and protect the corporation.
+
+[B-3] 01 Security Unit
+most senior security unit than 02-04.
+
+[B-2] 02 Security Unit
+better than 03 security unit.
+
+[B-1] 03 Security Unit
+senior security unit than 04.
+
+[B-0] 04 Security Unit
+First security unit that joins the corporation and passed the application center and ranked up to B-0 as 04 security unit their job is to protect the corporation from harmfull things.
+
+[A-2] Scientific Department
+Scientific Departments are Researchers from the corpoation to contain entities doing experiments and creating alot of things.
+
+[A-1] Corporation Personel
+First worker Employee from the Corporation.
+
+[0] Cell Subject (inmate)
+a prisoner that used to be a test subject like class d's
